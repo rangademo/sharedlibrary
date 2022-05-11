@@ -1,3 +1,3 @@
-dif test(name):
+def test(name):
     echo "this is ${name}"
 
